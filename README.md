@@ -1,2 +1,2 @@
-# Reid
-Person-reid paper project
+# EAP-Net: Enhanced attention with pose-assistance for person re-identification
+
